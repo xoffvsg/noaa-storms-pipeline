@@ -1,0 +1,17 @@
+# Ignore all downloaded and processed data
+data/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Editor noise
+.vscode/
+.idea/
+*.swp
+
+# Python (in case students experiment)
+__pycache__/
+*.pyc
+.venv/
+venv/
