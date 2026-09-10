@@ -9,15 +9,15 @@ A one-command pipeline that downloads a year of NOAA Storm Events data, converts
 Total runtime: about 90 seconds for a typical year on a home internet connection.
 
 
-The script includes safeguards to make sure no error is caused if the same file is downloaded twice.
+The script includes safeguards to make sure no error is caused if the same file is downloaded twice.<br>
 First run output:<br>
 <img width="1600" alt="Webpage_landing" src="https://github.com/xoffvsg/noaa-storms-pipeline/blob/main/CLI_firstrun.JPG">
 
 Following runs output:<br>
 <img width="500" alt="Webpage_landing" src="https://github.com/xoffvsg/noaa-storms-pipeline/blob/main/CLI_rerun.JPG">
 
-The GeoParquet file has been verified in QGIS.
-
+The GeoParquet file has been verified in QGIS.<br>
+<img width="1600" alt="Webpage_landing" src="https://github.com/xoffvsg/noaa-storms-pipeline/blob/main/QGIS_Output.JPG">
 
 ## The data
 
